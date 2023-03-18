@@ -23,7 +23,7 @@
 - Define relationship: Establish relationships between classes using inheritance and polymorphism.
 a. Inheritance 
 b. Polymorphism
-- Use principles & Patterns: use the SOLID principles and Design Patterns as and when necessary to make applications flexible.
+- Use principles & Patterns: use the "SOLID" principles and Design Patterns as and when necessary to make applications flexible.
 1. Single Responsibility Principle
 2. Open/Closed Principle
 3. Liskov Substitution Principle
