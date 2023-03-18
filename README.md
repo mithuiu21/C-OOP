@@ -17,4 +17,15 @@
 ## Steps for Developing Object-Oriented Applications
 > The business requirement is the starting point.
 - Abstraction: First, identify essential entities and their characteristic from the business requirment for a high level view.
-> a > Find nouns from the business requirment (the noun is the person, place, thisng, or process).
+ a. Find nouns from the business requirment (the noun is the person, place, thisng, or process).
+ b. Identify potential classes and their members from the nouns.
+- Encapsulation: An implementation of abstraction in code. Cdreate classes and their members with appropriate access modifiers to show functionalities and hide details and complexity. 
+- Define relationship: Establish relationships between classes using inheritance and polymorphism.
+a. Inheritance 
+b. Polymorphism
+- Use principles & Patterns: use the SOLID principles and Design Patterns as and when necessary to make applications flexible.
+1. Single Responsibility Principle
+2. Open/Closed Principle
+3. Liskov Substitution Principle
+4. Interface Segregation Principle
+5. Dependency Inversion Principle
