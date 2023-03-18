@@ -16,5 +16,5 @@
 
 ## Steps for Developing Object-Oriented Applications
 > The business requirement is the starting point.
-- 1. Abstraction: First, identify essential entities and their characteristic from the business requirment for a high level view.
->> Find nouns from the business requirment (the noun is the person, place, thisng, or process).
+- Abstraction: First, identify essential entities and their characteristic from the business requirment for a high level view.
+> a > Find nouns from the business requirment (the noun is the person, place, thisng, or process).
